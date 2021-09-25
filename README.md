@@ -1,5 +1,9 @@
 cara run
 
+pkg install php
+
+pkg install git
+
 git clone https://github.com/Thaniiaa/og/
 
 cd og
@@ -7,6 +11,7 @@ cd og
 php token.php
 
 Email : email Discord
+
 Password : Password Discord
 
 Token save notepad
