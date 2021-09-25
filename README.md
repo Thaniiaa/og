@@ -20,3 +20,5 @@ ketik
 php -S localhost:8080
 
 #http://localhost:8080/play.php?token=pastetoken
+
+Donasi : https://saweria.co/keizer404
